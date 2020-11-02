@@ -137,7 +137,7 @@
         </trans-unit>
         <trans-unit id="SessionControl.TimelineInfo" translate="yes" xml:space="preserve">
           <source>Timeline Info</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zeitleiste Info</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Zeitleiste anzeigen</target>
         </trans-unit>
         <trans-unit id="Settings.Additional" translate="yes" xml:space="preserve">
           <source>Additional</source>
@@ -233,7 +233,7 @@
         </trans-unit>
         <trans-unit id="SettingsItemDescription" translate="yes" xml:space="preserve">
           <source>Open settings window</source>
-          <target state="needs-review-translation" state-qualifier="mt-suggestion">Fenster "Einstellungen öffnen"</target>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Einstellungen öffnen</target>
         </trans-unit>
         <trans-unit id="UnpinTopBar" translate="yes" xml:space="preserve">
           <source>Unpin TopBar</source>
